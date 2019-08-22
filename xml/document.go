@@ -9,9 +9,9 @@ import "C"
 
 import (
 	"errors"
-	"github.com/moovweb/gokogiri/help"
-	. "github.com/moovweb/gokogiri/util"
-	"github.com/moovweb/gokogiri/xpath"
+	"github.com/norifumi/gokogiri/help"
+	. "github.com/norifumi/gokogiri/util"
+	"github.com/norifumi/gokogiri/xpath"
 	"os"
 	"unsafe"
 )
